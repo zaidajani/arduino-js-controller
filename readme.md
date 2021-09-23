@@ -2,7 +2,7 @@
 
 Control brightness and volume of your computer with just an Arduino and two components.
 
-## Demo
+## Diagram
 
 ![demo](./circuit.PNG)
 
