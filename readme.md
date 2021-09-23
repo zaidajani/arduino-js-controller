@@ -1,3 +1,8 @@
 # Arduino js controller
 
-will be updated
+Control brightness and volume of your computer with just an Arduino and two components.
+
+## Demo
+
+![demo](./circuit.png)
+
