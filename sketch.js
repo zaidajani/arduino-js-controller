@@ -17,3 +17,5 @@ board.on("ready", () => {
     brightness.set(volMeter.fscaleTo(0, 1));
   });
 });
+
+// This is super simple
